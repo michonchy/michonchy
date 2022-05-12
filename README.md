@@ -187,7 +187,7 @@ https://ee1rxxwzzl.execute-api.ap-northeast-1.amazonaws.com/Stage/currency-conve
 
 | パラメーター | フォーマット |
 | --- | --- |
-| number | 数値 |
+| numbers | 数値 |
 
 ### [quadratic-equation-API](https://github.com/michonchy/quadratic-equation-API)
 
