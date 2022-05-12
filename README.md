@@ -22,9 +22,19 @@ https://dev.d2czufkjyn70t8.amplifyapp.com/
 
 ![](https://github.com/michonchy/Melody-API/raw/main/.readme/architecture.png)
 
+#### [Melody-API](https://github.com/michonchy/Melody-API)
+
+動画ファイルを音声ファイルに変換し、変換後の音声ファイルを取得するAPI。
+
+**実行URL**
+
+https://9u3kgnfgt1.execute-api.ap-northeast-1.amazonaws.com/Stage/music
+
 ### フロントエンド
 
 `TODO: できた後で、Melody Appの画像を貼る`
+
+#### [Melody-Upload-Page](https://github.com/michonchy/Melody-Upload-Page)
 
 ## 作成物
 
