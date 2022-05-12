@@ -49,11 +49,12 @@ https://y5suepry5a.execute-api.ap-northeast-1.amazonaws.com/Stage/even-odd?numbe
 
 **実行URL**
 
+https://p919uydrcj.execute-api.ap-northeast-1.amazonaws.com/Prod/display-graph/?numbers=2,4,5,6,7
 
 
 | パラメーター | フォーマット |
 | --- | --- |
-| number | 数値 |
+| numbers | 数値 |
 
 ### [binary-number-API](https://github.com/michonchy/binary-number-API)
 
@@ -61,11 +62,11 @@ https://y5suepry5a.execute-api.ap-northeast-1.amazonaws.com/Stage/even-odd?numbe
 
 **実行URL**
 
-
+https://9b7x9rdvmc.execute-api.ap-northeast-1.amazonaws.com/Prod/binary-number/?numbers=4
 
 | パラメーター | フォーマット |
 | --- | --- |
-| number | 数値 |
+| numbers | 数値 |
 
 ### [max-min-API](https://github.com/michonchy/max-min-API)
 
@@ -73,7 +74,7 @@ https://y5suepry5a.execute-api.ap-northeast-1.amazonaws.com/Stage/even-odd?numbe
 
 **実行URL**
 
-
+https://2ejvrxqns1.execute-api.ap-northeast-1.amazonaws.com/Prod/max-min/?numbers=4,6,10
 
 | パラメーター | フォーマット |
 | --- | --- |
@@ -85,11 +86,11 @@ https://y5suepry5a.execute-api.ap-northeast-1.amazonaws.com/Stage/even-odd?numbe
 
 **実行URL**
 
-
+https://q0umy1l6mb.execute-api.ap-northeast-1.amazonaws.com/Prod/dream-flower/?numbers=2
 
 | パラメーター | フォーマット |
 | --- | --- |
-| number | 数値 |
+| numbers | 数値 |
 
 ### [prime-factorize-API](https://github.com/michonchy/prime-factorize-API)
 
@@ -97,11 +98,11 @@ https://y5suepry5a.execute-api.ap-northeast-1.amazonaws.com/Stage/even-odd?numbe
 
 **実行URL**
 
-
+https://71u3r0hhd3.execute-api.ap-northeast-1.amazonaws.com/Prod/prime-factorize/?numbers=543
 
 | パラメーター | フォーマット |
 | --- | --- |
-| number | 数値 |
+| numbers | 数値 |
 
 ### [leap-year-API](https://github.com/michonchy/leap-year-API)
 
@@ -109,11 +110,11 @@ https://y5suepry5a.execute-api.ap-northeast-1.amazonaws.com/Stage/even-odd?numbe
 
 **実行URL**
 
-
+https://xwp9525ued.execute-api.ap-northeast-1.amazonaws.com/Prod/leap-year/?numbers=2022
 
 | パラメーター | フォーマット |
 | --- | --- |
-| number | 数値 |
+| numbers | 数値 |
 
 ### [pay-money-API](https://github.com/michonchy/pay-money-API)
 
@@ -121,11 +122,11 @@ https://y5suepry5a.execute-api.ap-northeast-1.amazonaws.com/Stage/even-odd?numbe
 
 **実行URL**
 
-
+https://x3t4abealj.execute-api.ap-northeast-1.amazonaws.com/Prod/pay-money/?numbers=3456
 
 | パラメーター | フォーマット |
 | --- | --- |
-| number | 数値 |
+| numbers | 数値 |
 
 ### [admission-fee-API](https://github.com/michonchy/admission-fee-API)
 
@@ -133,11 +134,11 @@ https://y5suepry5a.execute-api.ap-northeast-1.amazonaws.com/Stage/even-odd?numbe
 
 **実行URL**
 
-
+https://2cdj3kdvsk.execute-api.ap-northeast-1.amazonaws.com/Prod/admission-fee/?numbers=35
 
 | パラメーター | フォーマット |
 | --- | --- |
-| number | 数値 |
+| numbers | 数値 |
 
 ### [repetition-numbers-API](https://github.com/michonchy/repetition-numbers-API)
 
@@ -146,11 +147,11 @@ https://y5suepry5a.execute-api.ap-northeast-1.amazonaws.com/Stage/even-odd?numbe
 
 **実行URL**
 
-
+https://602n06wxu4.execute-api.ap-northeast-1.amazonaws.com/Prod/repetition-numbers/?numbers=5
 
 | パラメーター | フォーマット |
 | --- | --- |
-| number | 数値 |
+| numbers | 数値 |
 
 ### [number-swap-API](https://github.com/michonchy/number-swap-API)
 
@@ -158,11 +159,11 @@ https://y5suepry5a.execute-api.ap-northeast-1.amazonaws.com/Stage/even-odd?numbe
 
 **実行URL**
 
-
+https://0fdap0tav4.execute-api.ap-northeast-1.amazonaws.com/Prod/number-swap/?numbers=5,7
 
 | パラメーター | フォーマット |
 | --- | --- |
-| number | 数値 |
+| numbers | 数値 |
 
 ### [taxi-rate-API](https://github.com/michonchy/taxi-rate-API)
 
@@ -170,11 +171,11 @@ https://y5suepry5a.execute-api.ap-northeast-1.amazonaws.com/Stage/even-odd?numbe
 
 **実行URL**
 
-
+https://1qkr2hnu0j.execute-api.ap-northeast-1.amazonaws.com/Prod/taxi-rate/?numbers=2000
 
 | パラメーター | フォーマット |
 | --- | --- |
-| number | 数値 |
+| numbers | 数値 |
 
 ### [currency-conversion-API](https://github.com/michonchy/currency-conversion-API)
 
@@ -182,7 +183,7 @@ https://y5suepry5a.execute-api.ap-northeast-1.amazonaws.com/Stage/even-odd?numbe
 
 **実行URL**
 
-
+https://ee1rxxwzzl.execute-api.ap-northeast-1.amazonaws.com/Stage/currency-conversion?numbers=1400,130
 
 | パラメーター | フォーマット |
 | --- | --- |
@@ -194,11 +195,11 @@ https://y5suepry5a.execute-api.ap-northeast-1.amazonaws.com/Stage/even-odd?numbe
 
 **実行URL**
 
-
+https://grcwi3u6sf.execute-api.ap-northeast-1.amazonaws.com/Prod/quadratic-equation/?numbers=2,8,5
 
 | パラメーター | フォーマット |
 | --- | --- |
-| number | 数値 |
+| numbers | 数値 |
 
 ### [assending-order-API](https://github.com/michonchy/assending-order-API)
 
@@ -206,11 +207,11 @@ https://y5suepry5a.execute-api.ap-northeast-1.amazonaws.com/Stage/even-odd?numbe
 
 **実行URL**
 
-
+https://u4q1ar44r7.execute-api.ap-northeast-1.amazonaws.com/Prod/ascending-order/?numbers=1,2,3
 
 | パラメーター | フォーマット |
 | --- | --- |
-| number | 数値 |
+| numbers | 数値 |
 
 ### [single-figure-API](https://github.com/michonchy/single-figure-API)
 
@@ -218,7 +219,7 @@ https://y5suepry5a.execute-api.ap-northeast-1.amazonaws.com/Stage/even-odd?numbe
 
 **実行URL**
 
-
+https://eyk7uogx4c.execute-api.ap-northeast-1.amazonaws.com/Stage/single-figure?number=6
 
 | パラメーター | フォーマット |
 | --- | --- |
